@@ -1,5 +1,11 @@
 {
     "configurations": [
+        {
+            "name": "Attach to Integrated Browser",
+            "request": "attach",
+            "type": "editor-browser",
+            "webRoot": "${workspaceFolder}"
+        },
     {
         "name": "Launch Integrated Browser",
         "request": "launch",
