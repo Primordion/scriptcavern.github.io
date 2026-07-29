@@ -1,4 +1,4 @@
 [build]
   base = "."
   command = "echo 'Static site: no build required'"
-  publish = "scriptcavern.github.io"
+  publish = "index.html"
