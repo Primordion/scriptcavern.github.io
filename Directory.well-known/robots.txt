@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://scriptcavern.andrew8banchero.workers.dev/sitemap.xml
